@@ -1,0 +1,5 @@
+faiss-cpu
+tiktoken
+openai
+langchain
+loguru
